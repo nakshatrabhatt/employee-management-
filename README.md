@@ -36,8 +36,5 @@ This is a **full-featured Employee Management System** designed to streamline HR
 ## 📫 Contributing
 Contributions are welcome! Feel free to fork this repository, raise issues, or submit pull requests.
 
-## 📜 License
-This project is licensed under the MIT License.
-
 ---
 **Maintainer:** Nakshatra Bhatt
